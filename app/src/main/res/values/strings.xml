@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">DweetProject</string>
+    <string name="app_name">PusherProject</string>
     <string name="temperature">Temperature</string>
     <string name="humidity">Humidity</string>
     <string name="brightness">Brightness</string>
@@ -11,4 +11,6 @@
     <string name="on">ON</string>
     <string name="noise_level">Noise Level</string>
     <string name="reset">Reset</string>
+    <string name="btnsend">send</string>
+    <string name="btntoggle_on_off">Toggle on/off</string>
 </resources>

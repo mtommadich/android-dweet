@@ -1,4 +1,4 @@
-package com.underdogfood.dweetproject;
+package com.underdogfood.pusherproject;
 
 import org.junit.Test;
 

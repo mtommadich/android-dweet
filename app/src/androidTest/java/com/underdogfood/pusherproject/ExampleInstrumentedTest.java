@@ -1,4 +1,4 @@
-package com.underdogfood.dweetproject;
+package com.underdogfood.pusherproject;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
